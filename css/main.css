@@ -1,1 +1,27 @@
 /* Place CSS styles here */
+
+.main-nav{
+color: #addfad;
+}
+.button{
+background-color:white;
+color:black;
+border-radius: 8px;
+cursor: pointer;
+}
+
+.button:focus
+
+.button:hover,
+.button:focus {
+background-color: #deded2;
+border-color: #deded2;
+}
+
+body{
+background-color: #addfad;
+}
+.items{
+display: flex;
+align-items: center;
+}
